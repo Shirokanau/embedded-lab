@@ -1,0 +1,19 @@
+# Keil / 8051 编译中间产物
+Objects/
+Listings/
+*.obj
+*.lnp
+*.m51
+*.lst
+*.build_log.htm
+Project Backups/
+*.workspace
+*.DBK
+
+# Proteus 备份
+*.pdsprj.workspace
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,8 @@
+# 传感器数据处理与建模所需依赖
+# 安装：pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+openpyxl
