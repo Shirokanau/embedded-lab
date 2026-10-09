@@ -122,7 +122,7 @@ void Dis_data(void) {
 
 1. Proteus 打开 `proteus/1.DSN`，载入 hex 运行；
 2. Keil 打开 `keil/cx.uvproj`，Rebuild 可重新生成 hex；
-3. 实物部分是在实验箱上接线的（不是自己焊的板子）。
+3. 实物部分是在实验箱上接线的。
 
 ## 已知问题
 
